@@ -19,7 +19,8 @@ This tool:
 
 The image below shows 25 indents being tracked across multiple time points. Red circles (with green labels) indicate active tracking; open circles show tracked positions in later frames as the specimen surface evolves.
 
-> *(Insert your `verification_grid.png` here — generated automatically after running the script)*
+<img width="1553" height="1190" alt="output cantilever 2" src="https://github.com/user-attachments/assets/fb0c6eb8-eab0-4d7d-bab0-61a6f92188a5" />
+
 
 ---
 
