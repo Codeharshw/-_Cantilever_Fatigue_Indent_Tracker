@@ -1,0 +1,55 @@
+# ======================
+# TEMPLATES (auto-generated, no need to commit)
+# ======================
+indent_template.png
+indent_template_1.png
+*.template.png
+
+# ======================
+# RAW EXPERIMENT DATA (too large for GitHub)
+# ======================
+*.tif
+*.tiff
+extracted_frames/
+raw_data/
+*_debanded.png
+
+# ======================
+# GENERATED OUTPUTS (reproducible, no need to commit)
+# ======================
+aligned_*.tif
+diff_map_*.png
+verify_*.png
+clustering_result*.png
+verification_grid*.png
+combined_contrast_plot.png
+
+# ======================
+# PYTHON CACHE
+# ======================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# ======================
+# VIRTUAL ENVIRONMENTS
+# ======================
+venv/
+env/
+.env
+
+# ======================
+# OS FILES
+# ======================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ======================
+# IDE FILES
+# ======================
+.vscode/
+.idea/
+*.code-workspace
